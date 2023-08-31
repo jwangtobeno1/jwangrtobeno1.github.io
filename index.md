@@ -21,7 +21,7 @@ Wang Jie is a master's student currently studying at Xidian University. He usual
 ## Awards & Honors 
 
 - Top Ten Innovation Models
-- 2020 Chinese National Scholarship(Top 0.3%)
+- 2020 Chinese National Scholarship (Top 0.3%)
 - First Price of 2019 NUEDC (Top 0.5%) (全国大学生电子设计竞赛)
 
 ## Projects
