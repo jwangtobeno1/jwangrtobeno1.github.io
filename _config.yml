@@ -1,7 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 
-title: WangJie | jwangtobeno1
+title: WangJie
 description: Homepage
 show_downloads: true
 google_analytics:
