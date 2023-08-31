@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Wang Jie
 
-[Link to another page](./another-page.html).
+- xduwangjie@gmail.com
+- [Xiduan University](https://en.wikipedia.org/wiki/Xidian_University), Taibai South road, Yanta District, Xian, China
 
-There should be whitespace between paragraphs.
+Wang Jie is a master's student currently studying at Xidian University. He usually works in scientific research at [the ISN National Key Laboratory](https://isn.xidian.edu.cn/). His research direction is the development of wireless communication systems based on FPGA. But what he really likes is digital IC design work, and he has a strong interest in computer architecture.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+- Xidian University
+  - M.s. in Electronic Engineering(Aug. 2021 - current)
+- Hunan Institute of Science and Technology
+  - B.s. in Electronic Engineering(Aug. 2017 - Jun 2021)
+  - GPA: 3.87/4.0
+  - Ranking: 1/80
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Awards & Honors 
 
-## Header 2
+- Top Ten Innovation Models
+- 2020 Chinese National Scholarship(Top 0.3%)
+- First Price of 2019 NUEDC (Top 0.5%) (全国大学生电子设计竞赛)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Projects
 
-### Header 3
+- Cross-media wireless communication system(2021.8-2024.3)
+  - based on acoustic wave excitation antenna
+  - responsible for project algorithm design and FPGA implementation
+  - complete the IP design of polar code encoder and decoder
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- XXX low frequency transmission technology(2021.7-2024.1)
+  - Confidential project
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- Channel simulator design(2022.5-2024.1)
+  - realize simulation of various model channels
+  - Based on PC - ZYNQ(ZC706) - RF(AD9361) architecture
+  - PS side is responsible for control, and the PL side is responsible for logic
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
