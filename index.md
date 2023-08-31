@@ -12,9 +12,9 @@ Wang Jie is a master's student currently studying at Xidian University. He usual
 ## Education
 
 - Xidian University
-  - M.s. in Electronic Engineering(Aug. 2021 - current)
+  - M.s. in Electronic Engineering (Aug. 2021 - current)
 - Hunan Institute of Science and Technology
-  - B.s. in Electronic Engineering(Aug. 2017 - Jun 2021)
+  - B.s. in Electronic Engineering (Aug. 2017 - Jun 2021)
   - GPA: 3.87/4.0
   - Ranking: 1/80
 
@@ -26,15 +26,15 @@ Wang Jie is a master's student currently studying at Xidian University. He usual
 
 ## Projects
 
-- Cross-media wireless communication system(2021.8-2024.3)
+- Cross-media wireless communication system (2021.8-2024.3)
   - based on acoustic wave excitation antenna
   - responsible for project algorithm design and FPGA implementation
   - complete the IP design of polar code encoder and decoder
 
-- XXX low frequency transmission technology(2021.7-2024.1)
+- XXX low frequency transmission technology (2021.7-2024.1)
   - Confidential project
 
-- Channel simulator design(2022.5-2024.1)
+- Channel simulator design (2022.5-2024.1)
   - realize simulation of various model channels
   - Based on PC - ZYNQ(ZC706) - RF(AD9361) architecture
   - PS side is responsible for control, and the PL side is responsible for logic
