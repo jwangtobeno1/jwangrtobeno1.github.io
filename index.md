@@ -18,7 +18,7 @@ Wang Jie is a master's student currently studying at Xidian University. He usual
   - GPA: 3.87/4.0
   - Ranking: 1/80
 
-## Awards & Honors 
+## Awards & Honors
 
 - Top Ten Innovation Models
 - 2020 Chinese National Scholarship (Top 0.3%)
@@ -27,16 +27,28 @@ Wang Jie is a master's student currently studying at Xidian University. He usual
 ## Projects
 
 - Cross-media wireless communication system (2021.8-2024.3)
+
   - based on acoustic wave excitation antenna
   - responsible for project algorithm design and FPGA implementation
   - complete the IP design of polar code encoder and decoder
 
 - XXX low frequency transmission technology (2021.7-2024.1)
+
   - Confidential project
 
 - Channel simulator design (2022.5-2024.1)
+
   - realize simulation of various model channels
   - Based on PC - ZYNQ(ZC706) - RF(AD9361) architecture
   - PS side is responsible for control, and the PL side is responsible for logic
 
-
+- Polar Encoder & Decoder (2023.9-2024.6)
+  - Graduation Product
+  - Encoder
+    - 3-stage pipeline
+    - Polarization weight(PW)
+    - Non-systematic encoding
+  - Decoder
+    - Fast-SSC decode algorithm
+    - Harvard architecture
+    - Custom ISA
