@@ -7,7 +7,7 @@ layout: default
 - xduwangjie@gmail.com
 - [Xiduan University](https://en.wikipedia.org/wiki/Xidian_University), Taibai South road, Yanta District, Xian, China
 
-Wang Jie is a master's student currently studying at Xidian University. He usually works in scientific research at [the ISN National Key Laboratory](https://isn.xidian.edu.cn/). His research direction is the development of wireless communication systems based on FPGA. He has a strong interest in computer architecture and FPGA design.
+Wang Jie is a master's student currently studying at Xidian University. He usually works in scientific research at [the ISN National Key Laboratory](https://isn.xidian.edu.cn/). His research direction is the development of wireless communication systems based on FPGA. He has a strong interest in computer architecture and Digital IC design.
 
 ## Education
 
